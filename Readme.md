@@ -1,3 +1,4 @@
 # Calculadora em Dupla
 
-Stephanie
+Stephanie 
+Allan
